@@ -1,7 +1,5 @@
-![image](https://microsoft.github.io/CameraTraps/assets/Pytorch_Banner_transparentbk.png)
-
 <div align="center"> 
-<font size="6"> A Collaborative Deep Learning Framework for Conservation </font>
+<font size="6"> AI for Wildlife and Poaching Prevention </font>
 <br>
 <hr>
 <a href="https://pypi.org/project/PytorchWildlife"><img src="https://img.shields.io/pypi/v/PytorchWildlife?color=limegreen" /></a> 
